@@ -30,7 +30,6 @@ Before running the script, ensure you have the following:
 
 3. Create a `creds.json` file in the project directory with the following structure:
 
-```json
 {
   "reddit": {
     "reddit_client_id": "your_reddit_client_id",
@@ -45,7 +44,6 @@ Before running the script, ensure you have the following:
     "password": "your_instagram_password"
   }
 }
-'''
 
 Replace the placeholders with your actual Reddit and Instagram credentials.
 

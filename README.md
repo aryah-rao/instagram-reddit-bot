@@ -30,7 +30,7 @@ Before running the script, ensure you have the following:
 
 3. Create a `creds.json` file in the project directory with the following structure:
 
-''' json 
+''' 
 {
   "reddit": {
     "reddit_client_id": "your_reddit_client_id",

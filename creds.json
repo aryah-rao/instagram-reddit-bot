@@ -1,0 +1,14 @@
+{
+  "reddit": {
+    "reddit_client_id": "",
+    "reddit_client_secret": "",
+    "reddit_username": "",
+    "reddit_password": "",
+    "reddit_user_agent": ""
+  },
+  "instagram_account": {
+    "subreddit": "",
+    "username": "",
+    "password": ""
+  }
+}

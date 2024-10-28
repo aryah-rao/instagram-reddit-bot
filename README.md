@@ -1,4 +1,4 @@
-# Reddit to Instagram Bot
+# Reddit-Instagram Bot
 
 ![Python](https://img.shields.io/badge/Python-100%25-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
